@@ -1,0 +1,184 @@
+/****** BASE STYLES ******/
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+	color: #2b2b2b;\\
+}
+
+/****** GRID ******/
+
+.full-width {
+	padding-left: 100px;
+	
+}
+
+.half-width {
+    width: 1505px;
+	
+    
+}
+.third-width {
+    width: 400px;
+    
+}
+
+/****** HEADER ******/
+
+header {
+	width: 100%;  
+	background: url('../img/zephyr-reed.png');
+    background-size:cover;
+	height: 1500px
+}
+
+.header-container img {
+	padding-top: 100px;
+}
+
+h1 {
+	padding-top: 10px;
+	padding-right: 100px;
+	text-align: right;
+	font-size: 120px;
+	letter-spacing: 10px;
+	
+}
+
+nav {
+	font-size: 70px;
+	word-spacing: 50px;
+	text-align: right;
+	padding-right: 120px;
+	color: #006098;
+}
+
+nav ul li{
+  	display: inline;
+	
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-size: 18px;   
+}
+
+
+
+.full-width p {
+	padding-top: 30px;
+	font-size: 70px;
+	margin-right: 125px;
+	text-align: justify;
+	height: 600px;
+	margin-top: 300px;
+}
+
+/****** mu portfolio ******/
+
+#my-portfolio .full-width {
+    padding-left: 80px 0;
+}
+
+#my-portfolio .half-width {
+	border: 2px solid;
+	border-color: #006098;
+}
+h3 {
+	margin-top: 300px;
+	font-size: 100px;
+	color: #006098;
+}
+
+#about h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    padding-left: 50px;
+}
+#about p {
+    font-size: 21px;
+    color: #7f7f7f;
+    line-height: 40px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+/****** WORK ******/
+
+#work {
+    background-color: #f9ceb7;
+    text-align: center;
+}
+
+#work .full-width {
+    padding: 115px 0;
+}
+
+#work img {
+    padding-bottom: 30px;
+}
+
+#work h3 {
+    font-size: 24px;
+    line-height: 32px;
+    width: 190px;
+    margin: 0 auto;
+}
+
+#work p {
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    line-height: 30px;
+    padding: 0 50px;
+}
+
+/****** CONTACT ******/
+
+#contact {
+    background-color: #ebebeb;
+}
+#contact .full-width {
+    padding: 110px 0;
+}
+#contact img#contact-img {
+    margin-left: 25px;
+    border: 12px solid #ffffff;
+}
+#contact h2, #contact #email-header, #contact #socialmedia-header, #contact ul {
+    padding-left: 115px;
+}
+#contact #envelope {
+    padding: 0 10px 0 115px;
+}
+#contact h2 {
+    font-family: 'Lora', serif;
+    font-size: 36px;
+    line-height: 44px;
+}
+#contact #email-header{
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 44px;
+    margin: -30px 0 5px 0;
+}
+#contact #socialmedia-header {
+    font-weight: bold;
+    font-size: 29px;
+    line-height: 44px;
+    margin: 40px 0 0 0;
+}
+#contact a {
+    text-decoration: none;
+    color: #c49075;
+    font-weight: bold;
+    font-size: 28px;
+}
+#contact ul {
+    list-style: none;
+}
+#contact ul li {
+     display: inline-block;
+}
+#contact ul img {
+    font-size: 32px;
+    padding-right: 48px;
+}

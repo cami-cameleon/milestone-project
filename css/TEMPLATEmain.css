@@ -1,0 +1,98 @@
+@import url(//db.onlinewebfonts.com/c/d6ced0df95b7cc53e0eae88817930d08?family=Wisdom+Script+AI);
+
+
+/******BASE STYLES***************/
+body {
+	font-family: 'Montserrat', sans-serif;
+	color: black;
+}
+
+#header {
+	height: 1px;
+}
+
+#description #specials #contact {
+	height:;
+}
+
+/***************GRID*************/
+.full-width {
+	width: 1200px;
+}
+
+
+.half-width {
+	width: 600px;
+
+	float: left;
+}
+
+
+.third-width {
+	width: 330px;
+}
+
+
+}
+/*************HEADER*************/
+
+header {
+	height: 1px;
+	width: 400px;
+}
+	
+
+h1 {
+	text-transform: uppercase;
+	height:50px;
+	padding: 20px 0px 20px 20px;
+	font-weight: bold;	
+}
+
+nav {
+	height: 50px;
+	padding: 40px 0 20px 0;
+	text-align: right;
+}
+
+nav ul li {
+	display: inline-block;
+	text-transform: uppercase;
+	font-size: 14px;
+	color: #77a466;
+	padding-left: 10px;
+}
+
+
+/*********MAIN**********/
+.section {
+	font-size: 30px;
+	height: 200px;
+	margin: 30px 20px 20px 20px;
+    background: url('../img/green-beans.png');
+    background-size: ;
+    border-color: #77a466;
+    border: 5px;
+    font-weight: bold;
+    
+}
+
+#description {
+    margin-left: ;
+    border: 12px solid #ffffff; 
+   }
+
+
+h2 {}
+
+span {
+	color: #77a466;
+}
+
+#description p {
+	font-size: 
+}
+
+footer {
+	font-family: widsom script AI;
+}
